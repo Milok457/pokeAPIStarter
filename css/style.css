@@ -53,6 +53,12 @@ figure{
     flex-direction: column;
 }
 
+.type-image{
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+
 .types{
     background-color: #000;
     color: #fff;

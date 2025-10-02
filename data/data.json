@@ -24,6 +24,56 @@
       ],
       "apiGeneration": 1
     },
+        {    
+      "pokedexId": 1,
+      "name": "Herbizarre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+      "stats": {
+          "HP": 60,
+          "attack": 62,
+          "defense": 63,
+          "special_attack": 80,
+          "special_defense": 80,
+          "speed": 60
+      },
+      "apiTypes": [
+        {
+            "name": "Plante",
+            "image": "https://static.wikia.nocookie.net/pokemongo/images/c/c5/Grass.png"
+        },
+          {
+              "name": "Poison",
+              "image": "https://static.wikia.nocookie.net/pokemongo/images/0/05/Poison.png"
+          }
+          
+      ],
+      "apiGeneration": 1
+    },
+        {    
+      "pokedexId": 3,
+      "name": "Florizarre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+      "stats": {
+          "HP": 80,
+          "attack": 82,
+          "defense": 83,
+          "special_attack": 100,
+          "special_defense": 100,
+          "speed": 80
+      },
+      "apiTypes": [
+        {
+            "name": "Plante",
+            "image": "https://static.wikia.nocookie.net/pokemongo/images/c/c5/Grass.png"
+        },
+          {
+              "name": "Poison",
+              "image": "https://static.wikia.nocookie.net/pokemongo/images/0/05/Poison.png"
+          }
+          
+      ],
+      "apiGeneration": 1
+    },
     {
       "pokedexId": 4,
       "name": "Salamèche",
@@ -63,6 +113,26 @@
           }
       ],
       "apiGeneration": 1
+    },
+    {    
+      "pokedexId": 934,
+      "name": "Gigansel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+      "stats": {
+          "HP": 100,
+          "attack": 100,
+          "defense": 130,
+          "special_attack": 45,
+          "special_defense": 90,
+          "speed": 35
+      },
+      "apiTypes": [
+        {
+            "name": "Roche",
+            "image": "https://static.wikia.nocookie.net/pokemongo/images/c/c5/Grass.png"
+        }          
+      ],
+      "apiGeneration": 9
     }
   ]
   
