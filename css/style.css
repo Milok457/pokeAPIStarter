@@ -54,9 +54,8 @@ figure{
 }
 
 .type-image{
-    width: 30%;
-    margin: auto;
-    display: block;
+    width: 6%;
+    display: inline-block;
 }
 
 .types{
